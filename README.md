@@ -2,7 +2,7 @@
 ### Script para simplificar el uso del comando `screen`
 
 ## Instalación
-`./screen.sh` fue probado *Screen version 4.09.00 (GNU) 30-Jan-22*
+`./screen.sh` fue probado en *Screen version 4.09.00 (GNU) 30-Jan-22*
 
 Descarga e instalación:
 
@@ -20,10 +20,14 @@ chmod +x screen.sh
 | join | `./screen.sh join` |
 
 ## Imagenes
-###### Comando principal
-![Comando principal](https://i.imgur.com/kI3YR80.png "Comando principal")
 
-###### Comando 'join' interactivo
-![Comando join interactivo](https://i.imgur.com/UaMII10.png "Comando interactivo")
+###### Comando principal PNG
+![Comando principal](https://i.imgur.com/fhtIhpG.png "Comando principal")
+
+##### Comando 'join' con una screen existente GIF
+![Comando con una screen](https://i.gyazo.com/0c5a0113a17e75654b839a1ede5308d4.gif "Comando con una screen")
+
+###### Comando 'join' interactivo con una screen inexistente GIF
+![Comando join interactivo](https://i.imgur.com/qF9YwqX.png "Comando interactivo")
 
 
