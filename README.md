@@ -1,7 +1,7 @@
 # screen.sh
 Easy create, join and kill screens.
 
-## Instalación
+## Versión
 `./screen.sh` fue probado en *Screen version 4.09.00 (GNU) 30-Jan-22*
 
 ## Descarga e instalación:
@@ -12,12 +12,19 @@ chmod +x screen.sh
 ./screen.sh
 ```
 
-## Comandos
+## Comando interactivo
 | Argumento | Comando |
 | ------ | ------ |
-| kill | `./screen.sh kill` |
-| create | `./screen.sh create` |
-| join | `./screen.sh join` |
+| kill | `./screen.sh help kill` |
+| create | `./screen.sh help create` |
+| join | `./screen.sh help join` |
+
+## Comando con argumentos
+| Argumento | Comando |
+| ------ | ------ |
+| kill | `./screen.sh kill <id>` |
+| create | `./screen.sh create <name>` |
+| join | `./screen.sh join <id>` |
 
 ## Imagenes
 
